@@ -32,3 +32,7 @@ iframe {
 a:visited {
   color: #0076e5;
 }
+
+td:first-child {
+  padding-right: 20px;
+}
