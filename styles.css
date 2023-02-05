@@ -1,6 +1,5 @@
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
-    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Bitter', serif;
 }
 
 html,
@@ -17,10 +16,19 @@ li {
   margin-bottom: 10px;
 }
 
+p,
+li {
+  max-width: 600px;
+}
+
 iframe {
   width: 320px;
   height: 180px;
   border-radius: 10px;
   outline: none;
   border: none;
+}
+
+a:visited {
+  color: #0076e5;
 }
