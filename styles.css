@@ -30,8 +30,8 @@ iframe {
   border: none;
 }
 
-a:visited {
-  color: #0076e5;
+a, a:visited {
+  color: #0000EE;
 }
 
 td:first-child {
